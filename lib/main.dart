@@ -36,6 +36,14 @@ class MyApp extends StatelessWidget {
               height: 1.5,
             ),
           ),
+          inputDecorationTheme: const InputDecorationTheme(
+            border: UnderlineInputBorder(),
+            labelStyle: TextStyle(
+              color: Colors.black,
+              fontSize: 16,
+              fontWeight: FontWeight.bold,
+            )
+          )
         ),
         initialRoute: '/',
         getPages: [

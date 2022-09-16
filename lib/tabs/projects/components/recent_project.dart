@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 
-import 'package:portfolio2_0/components/contact_me_button.dart';
+import 'package:portfolio2_0/components/contact_me/contact_me_button.dart';
 import 'package:portfolio2_0/components/default_button.dart';
 import 'package:portfolio2_0/tabs/projects/tile_masters/tile_masters_details.dart';
 import 'package:provider/provider.dart';

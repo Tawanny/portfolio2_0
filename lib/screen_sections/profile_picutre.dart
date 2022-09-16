@@ -4,7 +4,7 @@ import 'package:portfolio2_0/components/social_meadia_links.dart';
 
 import '../helpers/constants.dart';
 import '../helpers/theme_colors.dart';
-import '../components/contact_me_button.dart';
+import '../components/contact_me/contact_me_button.dart';
 
 class ProfilePicture extends StatelessWidget {
   const ProfilePicture({

@@ -17,7 +17,8 @@ class SocialMediaLinks extends StatelessWidget {
   Widget build(BuildContext context) {
     return SizedBox(
       width: boxWidth,
-      child: Row(mainAxisAlignment: MainAxisAlignment.spaceAround,
+      child: Row(
+          mainAxisAlignment: MainAxisAlignment.spaceBetween,
           children: [
         SocialMediaLink(
          icon: FontAwesomeIcons.linkedin,

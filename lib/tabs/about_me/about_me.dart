@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:portfolio2_0/components/contact_me_button.dart';
+import 'package:portfolio2_0/components/contact_me/contact_me_button.dart';
 
 import '../../helpers/constants.dart';
 import '../../helpers/theme_colors.dart';
